@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-// import 'package:tb_ppm/views/loading_screen.dart';
-import 'package:tb_ppm/views/login_screen.dart';
-import 'package:tb_ppm/utils/helper.dart';
+// import 'package:mindnews/views/loading_screen.dart';
+import 'package:mindnews/views/login_screen.dart';
+import 'package:mindnews/utils/helper.dart';
 
 
 class SplashScreen extends StatefulWidget {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:tb_ppm/views/login_screen.dart';
-import 'package:tb_ppm/utils/helper.dart';
+import 'package:mindnews/views/login_screen.dart';
+import 'package:mindnews/utils/helper.dart';
 
 class RegisterPage extends StatefulWidget {
   const RegisterPage({super.key});

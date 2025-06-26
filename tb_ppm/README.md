@@ -1,4 +1,4 @@
-# tb_ppm
+# mindnews
 
 A new Flutter project.
 

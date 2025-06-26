@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:tb_ppm/views/splash_screen.dart';
-import 'package:tb_ppm/utils/helper.dart';
+import 'package:mindnews/views/splash_screen.dart';
+import 'package:mindnews/utils/helper.dart';
 
 void main() {
   runApp(const MyApp());

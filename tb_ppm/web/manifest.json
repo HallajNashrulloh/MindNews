@@ -1,6 +1,6 @@
 {
-    "name": "tb_ppm",
-    "short_name": "tb_ppm",
+    "name": "mindnews",
+    "short_name": "mindnews",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

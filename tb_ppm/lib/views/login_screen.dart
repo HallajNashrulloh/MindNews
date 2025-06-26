@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:tb_ppm/views/register_screen.dart';
-import 'package:tb_ppm/utils/helper.dart';
+import 'package:mindnews/views/beranda.dart';
+import 'package:mindnews/views/register_screen.dart';
+import 'package:mindnews/utils/helper.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
@@ -157,7 +158,12 @@ class _LoginPageState extends State<LoginPage> {
                             borderRadius: BorderRadius.circular(10),
                           ),
                         ),
-                        onPressed: () {},
+                        onPressed: () {
+                          Navigator.pushReplacement(
+                            context,
+                            MaterialPageRoute(builder: (context) => BerandaPage()),
+                          );
+                        },
                         child: const Text(
                           "Masuk",
                           style: TextStyle(

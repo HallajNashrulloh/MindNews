@@ -1,4 +1,4 @@
-package com.example.tb_ppm
+package com.example.mindnews
 
 import io.flutter.embedding.android.FlutterActivity
 
